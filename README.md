@@ -63,6 +63,7 @@ The purpose of this analysis was to use Resampling models, SMOTEENN Algorithm, E
 
 ## Summmary
 
+The purpose of this analysis was to find the best machine learning model that can detect if a loan is high risk or low risk. The most favorable model will have a higher balance accuracy score. The ensemble classifiers show higher accuracy scores than the previous four models. I would recommend the Easy Ensemble AdaBoost Classifier is considered the best model, having an accuracy score of 0.918. It also has the highest recall score, 0.89, for high risk loans. A high risk loan is what we want to avoid so the higher the recall, the more loans we see that could have a bigger impact on credit.
 
+---
 
-Recommendation
